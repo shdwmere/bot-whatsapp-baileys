@@ -77,7 +77,7 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 - **Extração de Participantes de um Grupo**
 - **Bulk-Sending de Mensagens Privadas**
 - **Suporte ao envio de Mensagens dos seguintes tipos:**
-    - Textos
+    - Texto
     - Texto com Link Preview
     - Áudios 
     - Imagens 
