@@ -75,4 +75,11 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 
 - **Resposta Automatica a Mensagens Privadas**
 - **Extração de Participantes de um Grupo**
-- **Bulk-Sending**
+- **Bulk-Sending de Mensagens Privadas**
+- **Suporte ao envio de Mensagens dos seguintes tipos:**
+    - Textos
+    - Texto com Link Preview
+    - Áudios 
+    - Imagens 
+    - Vídeos 
+    - Documentos
