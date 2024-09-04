@@ -30,6 +30,9 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 
     ```sh
     git clone https://github.com/shdwmere/bot-whatsapp-baileys.git
+    ```
+
+    ```sh
     cd bot-whatsapp-baileys/
     ```
 
