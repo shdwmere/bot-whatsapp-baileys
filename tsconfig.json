@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                         // Versão de JavaScript que o código será compilado
+    "module": "commonjs",                    // Sistema de módulos
+    "strict": true,                          // Habilita verificações estritas
+    "esModuleInterop": true,                 // Suporte para importações de módulos ES6
+    "outDir": "./dist",                      // Diretório de saída para os arquivos compilados
+    "rootDir": "./src",                      // Diretório raiz dos arquivos TypeScript
+    "resolveJsonModule": true,               // Permite importar arquivos JSON
+    "skipLibCheck": true                     // Ignora verificações de tipo em arquivos de definição
+  },
+  "include": ["src/**/*"],                   // Inclui todos os arquivos TypeScript no diretório src
+  "exclude": ["node_modules", "dist"]        // Exclui diretórios desnecessários
+}

@@ -1,0 +1,17 @@
+# Ignorar a pasta de autenticação
+auth_info_baileys/
+
+# Ignorar a pasta de dependências
+node_modules/
+
+# Ignorar arquivos de build
+dist/
+
+# Ignorar arquivos temporários e de configuração do editor
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Ignorar arquivos de configuração do TypeScript
+tsconfig.tsbuildinfo
