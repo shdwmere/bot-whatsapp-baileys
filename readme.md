@@ -29,8 +29,8 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 1. **Clone o repositório:**
 
     ```sh
-    git clone https://github.com/....
-    cd ....
+    git clone https://github.com/shdwmere/bot-whatsapp-baileys.git
+    cd bot-whatsapp-baileys/
     ```
 
 2. **Instale as dependências:**
